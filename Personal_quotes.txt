@@ -1,3 +1,7 @@
 Strength through Struggle-Michael Choi
  "Push yourself, because no one else is going to do it for you."
+<<<<<<< HEAD
  "Don’t watch the clock; do what it does. Keep  grren going.
+=======
+ "Don’t watch the clock; do what it does.        Keep going.
+>>>>>>> personal_color
